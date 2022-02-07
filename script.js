@@ -1,6 +1,8 @@
 // Declare your own variables here
 
 
+
+
 function setup() {
   createCanvas(600, 400);
 	
@@ -14,5 +16,9 @@ function draw() {
 	// Create your code below this line
 	
 	
+
+
+
+
 	
 }

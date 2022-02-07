@@ -24,10 +24,12 @@ function draw() {
 }
 ```
 
-## Task: Draw a Face
-**GOAL**: Draw a face similar to the one shown below. 
-**REQUIREMENTS**: You should:
-- Use only two variables (x and y) to place all shapes on the page. 
-- **HINT**: Think about how to get the white circle on the page and then update x and y.
+## Task: Do You Want to Build a Snowman?
+![](https://media.giphy.com/media/WFJAqzg0hZ6dq/giphy.gif)
+**GOAL**: Draw a snowman using your knowledge of p5 and variables!.
 
-![](TargetImage.png)
+**REQUIREMENTS**: You should:
+- At least 3 ellipse(), correctly layered so that it looks like one is resting on top of the other.
+- At least two line() for the arms
+- Use created variables (e.g. x and y) and built-in variables (mouseX, width, heigth, etc.) to place shapes on the page. 
+- What shape do you think I used to make the nose? Use [p5✱ Reference](https://p5js.org/reference/) to figure out how to make this shape.
