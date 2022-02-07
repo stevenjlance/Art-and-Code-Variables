@@ -25,7 +25,9 @@ function draw() {
 ```
 
 ## Task: Do You Want to Build a Snowman?
+
 ![](https://media.giphy.com/media/WFJAqzg0hZ6dq/giphy.gif)
+
 **GOAL**: Draw a snowman using your knowledge of p5 and variables!.
 
 **REQUIREMENTS**: You should have:
