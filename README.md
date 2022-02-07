@@ -28,7 +28,7 @@ function draw() {
 ![](https://media.giphy.com/media/WFJAqzg0hZ6dq/giphy.gif)
 **GOAL**: Draw a snowman using your knowledge of p5 and variables!.
 
-**REQUIREMENTS**: You should:
+**REQUIREMENTS**: You should have:
 - At least 3 ellipse(), correctly layered so that it looks like one is resting on top of the other.
 - At least two line() for the arms
 - Use created variables (e.g. x and y) and built-in variables (mouseX, width, heigth, etc.) to place shapes on the page. 
